@@ -12,3 +12,5 @@ This project focusing on creating user-friendly, accessible, and visually appeal
 
 ## Purpose  
 This portfolio was designed to demonstrate frontend development skills while providing an engaging and professional way to showcase work and experience.
+
+<img src="/assets/ss.png" alt="Snapshot">
